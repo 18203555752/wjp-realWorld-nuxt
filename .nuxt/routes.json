@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\layout\\\\index.vue",
+    "children": [
+      {
+        "path": "/",
+        "name": "home",
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\home\\\\index.vue",
+        "_name": "_265b97ca"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\login\\\\index.vue",
+        "_name": "_d5df0ebc"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\login\\\\index.vue",
+        "_name": "_d5df0ebc"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\profile\\\\index.vue",
+        "_name": "_6584ca22"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\settings\\\\index.vue",
+        "_name": "_6408b686"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\editor\\\\index.vue",
+        "_name": "_d1154a88"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\article\\\\index.vue",
+        "_name": "_0b3164b5"
+      }
+    ],
+    "_name": "_023bf8df"
+  }
+]
