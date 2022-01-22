@@ -6,46 +6,38 @@
       {
         "path": "/",
         "name": "home",
-        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\home\\\\index.vue",
-        "_name": "_265b97ca"
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\home\\\\index.vue"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\login\\\\index.vue",
-        "_name": "_d5df0ebc"
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\login\\\\index.vue"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\login\\\\index.vue",
-        "_name": "_d5df0ebc"
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\login\\\\index.vue"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\profile\\\\index.vue",
-        "_name": "_6584ca22"
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\profile\\\\index.vue"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\settings\\\\index.vue",
-        "_name": "_6408b686"
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\settings\\\\index.vue"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\editor\\\\index.vue",
-        "_name": "_d1154a88"
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\editor\\\\index.vue"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\article\\\\index.vue",
-        "_name": "_0b3164b5"
+        "component": "C:\\\\lagou_wjp\\\\part3\\\\part3-3NuxtJs-base\\\\pages\\\\article\\\\index.vue"
       }
-    ],
-    "_name": "_023bf8df"
+    ]
   }
 ]
