@@ -13,7 +13,6 @@ export default {
         onClick(){
             this.$router.push('/')
         }
-
     }
 }
 </script>
