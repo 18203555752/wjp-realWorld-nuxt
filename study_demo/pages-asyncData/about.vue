@@ -11,7 +11,6 @@ export default {
     layout:'foo',
     methods:{
         onClick(){
-            // console.log(9090)
             this.$router.push('/')
         }
     }
